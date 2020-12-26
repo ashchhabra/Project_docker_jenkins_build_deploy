@@ -7,9 +7,11 @@ Creating Jenkins as a docker container, and using Jenkins pipeline to create doc
 
 # Intial Installations to start off!! 
 
-Install ubuntu(Virtual Machine) on Oracle VirtualBox
+- Install ubuntu(Virtual Machine) on Oracle VirtualBox
 
-Docker Installation https://docs.docker.com/engine/install/ubuntu/
+   I 'll update the links soon :)
+
+- Docker Installation https://docs.docker.com/engine/install/ubuntu/
 
 # Create Jenkins Container from Jenkins Image
 
