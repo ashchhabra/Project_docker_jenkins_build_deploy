@@ -5,7 +5,7 @@ This is my first personal project !
 
 Creating Jenkins as a docker container, and using Jenkins pipeline to create docker image(Jar), build it and deploy it on Docker Swarm
 
-# Intial Installations to start off!! 
+# Initial Installations to start off!! 
 
 - Install ubuntu(Virtual Machine) on Oracle VirtualBox
 
