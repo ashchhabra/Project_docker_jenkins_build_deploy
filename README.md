@@ -1,6 +1,8 @@
 # Docker-Jenkins Inegration
 This is my first personal project ! 
 
+Just trying my hands on docker.
+
 # About Project
 
 Creating Jenkins as a docker container, and using Jenkins pipeline to create docker image(Jar), build it and deploy it on Docker Swarm
