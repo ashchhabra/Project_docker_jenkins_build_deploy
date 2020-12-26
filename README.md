@@ -3,7 +3,7 @@
 
 # Create Jenkins Container from Jenkins Image
 
-Sudo docker run -p 8070:8080 -p 50000:50000 --name jenkins1 --mount source=jenkins_home1,target=/var/jenkins_home jenkins/jenkins:lts
+1) Sudo docker run -p 8070:8080 -p 50000:50000 --name jenkins1 --mount source=jenkins_home1,target=/var/jenkins_home jenkins/jenkins:lts
 
 8070- to access jenkins from browser
 8080- port open for tomcat, since jenkins is hosted on apache tomcat
